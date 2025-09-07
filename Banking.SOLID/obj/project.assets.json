@@ -3187,8 +3187,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abdul Maalik\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Abdul Maalik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3199,19 +3198,13 @@
       "packagesPath": "C:\\Users\\Abdul Maalik\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Abdul Maalik\\Desktop\\New folder\\.net-dev-solid\\Banking.SOLID\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Abdul Maalik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Abdul Maalik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
